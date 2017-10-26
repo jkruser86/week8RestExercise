@@ -1,0 +1,5 @@
+edu/matc/week8RestExercise/entity/User.class
+edu/matc/week8RestExercise/persistence/UserDao.class
+edu/matc/week8RestExercise/controller/UserApplication.class
+edu/matc/week8RestExercise/persistence/SessionFactoryProvider.class
+edu/matc/week8RestExercise/controller/UserSelect.class
